@@ -1,5 +1,5 @@
-# Aygaz_Bootcamp/Medical Cost Analysis
-##Aygaz Machine Learning Bootcamp 
+#Medical Cost Analysis
+
 ##Dataset: https://www.kaggle.com/datasets/mirichoi0218/insurance
 **In this project, you will be trying to develop an end-to-end data science application using the
 dataset given above. The aim of the project is to estimate the approximate cost of a person's
